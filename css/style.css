@@ -209,6 +209,7 @@ a {
     color: var(--green);
 }
 .aside li {
+    margin-bottom: .6rem;
     list-style: none;
 }
 .main-content h2 {
