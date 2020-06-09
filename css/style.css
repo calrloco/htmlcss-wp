@@ -221,3 +221,6 @@ a {
     border-radius: var(--main-box-radius);
     padding: 3rem;
 }
+.right-text h2{
+    text-transform: capitalize;
+}
