@@ -213,6 +213,7 @@ a {
     list-style: none;
 }
 .main-content h2 {
+    text-transform: capitalize;
     margin-bottom: 3rem;
 }
 .right-text {
